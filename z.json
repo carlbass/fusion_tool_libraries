@@ -1,0 +1,3970 @@
+{
+    "data": [
+        {
+            "BMC": "hss",
+            "GRADE": "generic",
+            "description": "5/16-18 forming tap",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.3125,
+                "HAND": true,
+                "LB": 1.52,
+                "LCF": 0.75,
+                "NOF": 2,
+                "NT": 1,
+                "OAL": 5.749999999999999,
+                "RE": 0,
+                "SFDM": 0.23,
+                "SIG": 0,
+                "TP": 0.0555556,
+                "assemblyGaugeLength": 5.1,
+                "shoulder-length": 0.75,
+                "thread-profile-angle": 60,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "16509747-38e4-4ad3-8e41-e80d14385a95",
+            "holder": {
+                "description": "Maritool ER20-3.5MDT",
+                "gaugeLength": 3.58,
+                "guid": "",
+                "product-id": "",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 0.74,
+                        "lower-diameter": 1.1,
+                        "upper-diameter": 1.1
+                    },
+                    {
+                        "height": 0.24,
+                        "lower-diameter": 1,
+                        "upper-diameter": 1
+                    },
+                    {
+                        "height": 0.65,
+                        "lower-diameter": 1.1,
+                        "upper-diameter": 1.1
+                    },
+                    {
+                        "height": 1.24,
+                        "lower-diameter": 1.1,
+                        "upper-diameter": 1.4
+                    },
+                    {
+                        "height": 0.71,
+                        "lower-diameter": 2.5,
+                        "upper-diameter": 2.5
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": ""
+            },
+            "last_modified": 1651694927765,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 53,
+                "length-offset": 53,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 53,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "reference_guid": "{5b8561e1-62d2-46be-b7b5-f9e99fdfc2e9}",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "d4e5dc40-455a-173e-8b59-24956adb2f49",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 916.7324722093168,
+                        "n_ramp": 0,
+                        "name": "Aluminum Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 74.99999999999999,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "52759adf-4f65-8618-6c86-6e8f0d9df728",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 488.9239851783024,
+                        "n_ramp": 0,
+                        "name": "Steel Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 39.99999999999999,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "04174981-4746-5dcb-7d29-1494af40a15a",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 244.4619925891512,
+                        "n_ramp": 0,
+                        "name": "Stainless Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 20,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "a0b984ab-4900-1102-0490-c9b9a24933db",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 122.2309962945756,
+                        "n_ramp": 0,
+                        "name": "Titanium Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 9.999999999999998,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "a7fdcab4-4820-6f55-e650-e49c22303b1e",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 611.154981472878,
+                        "n_ramp": 0,
+                        "name": "Plastic Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 49.99999999999999,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    }
+                ]
+            },
+            "type": "tap right hand",
+            "unit": "inches",
+            "vendor": ""
+        },
+        {
+            "BMC": "hss",
+            "GRADE": "generic",
+            "description": "#10-24 forming tap",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.19,
+                "HAND": true,
+                "LB": 1.25,
+                "LCF": 0.6,
+                "NOF": 2,
+                "NT": 1,
+                "OAL": 3.64,
+                "RE": 0,
+                "SFDM": 0.135,
+                "SIG": 0,
+                "TP": 0.0416667,
+                "assemblyGaugeLength": 5.28,
+                "shoulder-length": 0.6,
+                "thread-profile-angle": 60,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "26d72e6e-ac91-41ea-b080-6f23e5dd9850",
+            "holder": {
+                "description": "Maritool ER16-4.0MD",
+                "gaugeLength": 4.03,
+                "guid": "",
+                "product-id": "",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 2.7,
+                        "lower-diameter": 0.875,
+                        "upper-diameter": 0.875
+                    },
+                    {
+                        "height": 0.62,
+                        "lower-diameter": 1.752,
+                        "upper-diameter": 1.752
+                    },
+                    {
+                        "height": 0.71,
+                        "lower-diameter": 2.5,
+                        "upper-diameter": 2.5
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": ""
+            },
+            "last_modified": 1651694927766,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 49,
+                "length-offset": 49,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 49,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "reference_guid": "{2cfb246c-7bad-434e-889b-aae98163af38}",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "f3c851d3-4d92-a1f2-066f-b084be1552e7",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 1507.783671396903,
+                        "n_ramp": 0,
+                        "name": "Aluminum Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 74.99999999999999,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "4f5f97e8-4e4f-1dfe-4718-32aa44efbab3",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 804.1512914116819,
+                        "n_ramp": 0,
+                        "name": "Steel Tap",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 39.99999999999999,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "86665b5d-47d1-ac28-f253-d3b5291f9632",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 402.0756457058408,
+                        "n_ramp": 0,
+                        "name": "Stainless Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 20,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "c61cdc4d-4ad5-2d9e-f6f7-b9aab018565c",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 201.0378228529204,
+                        "n_ramp": 0,
+                        "name": "Titanium Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 9.999999999999996,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "fd8ed906-4b62-cbbd-445e-50984e81d203",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 1005.1891142646024,
+                        "n_ramp": 0,
+                        "name": "Plastic Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 49.99999999999999,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    }
+                ]
+            },
+            "type": "tap right hand",
+            "unit": "inches",
+            "vendor": ""
+        },
+        {
+            "BMC": "unspecified",
+            "GRADE": "generic",
+            "description": "M3.5 forming tap",
+            "geometry": {
+                "CSP": false,
+                "DC": 3.5,
+                "HAND": true,
+                "LB": 29,
+                "LCF": 9.5,
+                "NOF": 2,
+                "NT": 1,
+                "OAL": 48,
+                "RE": 0,
+                "SFDM": 2.9,
+                "SIG": 0,
+                "TP": 0.6,
+                "assemblyGaugeLength": 131.362,
+                "shoulder-length": 9.5,
+                "thread-profile-angle": 60,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "27fcdb8e-15b5-4b78-bcdb-1cc4690ed542",
+            "holder": {
+                "description": "Maritool ER16-4.0MD",
+                "gaugeLength": 102.362,
+                "guid": "",
+                "product-id": "",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 68.58,
+                        "lower-diameter": 22.225,
+                        "upper-diameter": 22.225
+                    },
+                    {
+                        "height": 15.748,
+                        "lower-diameter": 44.50080000000001,
+                        "upper-diameter": 44.50080000000001
+                    },
+                    {
+                        "height": 18.034,
+                        "lower-diameter": 63.50000000000001,
+                        "upper-diameter": 63.50000000000001
+                    }
+                ],
+                "type": "holder",
+                "unit": "millimeters",
+                "vendor": ""
+            },
+            "last_modified": 1651694927764,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 59,
+                "length-offset": 59,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 59,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "reference_guid": "{0691a879-e5a4-4bbb-bcb7-d46ae7ca3211}",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "f45c9499-4fdf-4b35-70eb-e59491ef7765",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 6820.926132509801,
+                        "n_ramp": 0,
+                        "name": "Aluminum Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 75,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "0efaaf71-451f-0825-d6ba-12befaba318c",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 3637.827270671894,
+                        "n_ramp": 0,
+                        "name": "Steel Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 40,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "bbaa1652-4820-7c34-e89d-34b7d4c7fe62",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 1818.913635335947,
+                        "n_ramp": 0,
+                        "name": "Stainless Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 20,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "c52385d3-4cb0-d456-232a-0a9dfd63574c",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 909.4568176679732,
+                        "n_ramp": 0,
+                        "name": "Titanium Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 10,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "f4db9290-422d-9d7a-bc4b-08a2c47a672d",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 4547.284088339867,
+                        "n_ramp": 0,
+                        "name": "Plastic Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 49.99999999999999,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    }
+                ]
+            },
+            "type": "tap right hand",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "hss",
+            "GRADE": "generic",
+            "description": "1/4-28 forming tap",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.25,
+                "HAND": true,
+                "LB": 1.47,
+                "LCF": 0.75,
+                "NOF": 2,
+                "NT": 1,
+                "OAL": 4.5,
+                "RE": 0,
+                "SFDM": 0.225,
+                "SIG": 0,
+                "TP": 0.0357143,
+                "assemblyGaugeLength": 5.05,
+                "shoulder-length": 0.76,
+                "thread-profile-angle": 60,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "33b38256-8cde-4c07-a8bb-cba166ec45b4",
+            "holder": {
+                "description": "Maritool ER20-3.5MDT",
+                "gaugeLength": 3.58,
+                "guid": "",
+                "product-id": "",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 0.74,
+                        "lower-diameter": 1.1,
+                        "upper-diameter": 1.1
+                    },
+                    {
+                        "height": 0.24,
+                        "lower-diameter": 1,
+                        "upper-diameter": 1
+                    },
+                    {
+                        "height": 0.65,
+                        "lower-diameter": 1.1,
+                        "upper-diameter": 1.1
+                    },
+                    {
+                        "height": 1.24,
+                        "lower-diameter": 1.1,
+                        "upper-diameter": 1.4
+                    },
+                    {
+                        "height": 0.71,
+                        "lower-diameter": 2.5,
+                        "upper-diameter": 2.5
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": ""
+            },
+            "last_modified": 1651694927764,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 52,
+                "length-offset": 52,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 52,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "reference_guid": "{e0987de7-9f98-4307-8d91-f5b529630813}",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "b24d8069-4b78-7e96-9a28-448c3cb7616e",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 1145.9155902616462,
+                        "n_ramp": 0,
+                        "name": "Aluminum Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 74.99999999999997,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "9628e2ff-45ac-7c65-b67b-7f84715a4348",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 611.154981472878,
+                        "n_ramp": 0,
+                        "name": "Steel Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 39.99999999999999,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "09d774d3-4be2-5ce9-75c3-7b8459166712",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 305.577490736439,
+                        "n_ramp": 0,
+                        "name": "Stainless Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 20,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "a2c1e25b-4d9f-1030-7912-ed8a2c49ad03",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 152.7887453682195,
+                        "n_ramp": 0,
+                        "name": "Titanium Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 9.999999999999996,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "ca84d965-4c9f-a9a9-887c-2cbccf0504f1",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 763.9437268410977,
+                        "n_ramp": 0,
+                        "name": "Plastic Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 49.99999999999999,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    }
+                ]
+            },
+            "type": "tap right hand",
+            "unit": "inches",
+            "vendor": ""
+        },
+        {
+            "BMC": "unspecified",
+            "GRADE": "generic",
+            "description": "M4 forming tap",
+            "geometry": {
+                "CSP": false,
+                "DC": 4,
+                "HAND": true,
+                "LB": 28,
+                "LCF": 11,
+                "NOF": 2,
+                "NT": 1,
+                "OAL": 53,
+                "RE": 0,
+                "SFDM": 3.3,
+                "SIG": 0,
+                "TP": 0.7,
+                "assemblyGaugeLength": 130.362,
+                "shoulder-length": 11,
+                "thread-profile-angle": 60,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "3834fe52-e86d-444d-8580-1baa7812e9b3",
+            "holder": {
+                "description": "Maritool ER16-4.0MD",
+                "gaugeLength": 102.362,
+                "guid": "",
+                "product-id": "",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 68.58,
+                        "lower-diameter": 22.225,
+                        "upper-diameter": 22.225
+                    },
+                    {
+                        "height": 15.748,
+                        "lower-diameter": 44.50080000000001,
+                        "upper-diameter": 44.50080000000001
+                    },
+                    {
+                        "height": 18.034,
+                        "lower-diameter": 63.50000000000001,
+                        "upper-diameter": 63.50000000000001
+                    }
+                ],
+                "type": "holder",
+                "unit": "millimeters",
+                "vendor": ""
+            },
+            "last_modified": 1651694927765,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 60,
+                "length-offset": 60,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 60,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "reference_guid": "{4fdfd153-1931-414b-97d5-fcc63eb5118e}",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "3ad7df99-47ed-c923-79d3-7e88cf8db2a0",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 5968.310365946077,
+                        "n_ramp": 0,
+                        "name": "Aluminum Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 75,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "adc01951-4406-0d36-e1cf-4ca5852353ae",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 3183.0988618379065,
+                        "n_ramp": 0,
+                        "name": "Steel Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 40,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "94123377-4abd-abd0-2976-35b505caf101",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 1591.5494309189537,
+                        "n_ramp": 0,
+                        "name": "Stainless Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 20,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "afaf3d76-4f5b-f6e2-f470-c8aa2c43f0a4",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 795.7747154594766,
+                        "n_ramp": 0,
+                        "name": "Titanium Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 10,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "8fab4cfa-4450-effd-c854-be94b4be32fa",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 3978.873577297384,
+                        "n_ramp": 0,
+                        "name": "Plastic Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 50,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    }
+                ]
+            },
+            "type": "tap right hand",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "hss",
+            "GRADE": "generic",
+            "description": "1/4-20 forming tap",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.25,
+                "HAND": true,
+                "LB": 1.47,
+                "LCF": 0.75,
+                "NOF": 2,
+                "NT": 1,
+                "OAL": 4.5,
+                "RE": 0,
+                "SFDM": 0.225,
+                "SIG": 0,
+                "TP": 0.05,
+                "assemblyGaugeLength": 5.05,
+                "shoulder-length": 0.76,
+                "thread-profile-angle": 60,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "4db40138-58d6-49cc-95d9-5aee7aaa838e",
+            "holder": {
+                "description": "Maritool ER20-3.5MDT",
+                "gaugeLength": 3.58,
+                "guid": "",
+                "product-id": "",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 0.74,
+                        "lower-diameter": 1.1,
+                        "upper-diameter": 1.1
+                    },
+                    {
+                        "height": 0.24,
+                        "lower-diameter": 1,
+                        "upper-diameter": 1
+                    },
+                    {
+                        "height": 0.65,
+                        "lower-diameter": 1.1,
+                        "upper-diameter": 1.1
+                    },
+                    {
+                        "height": 1.24,
+                        "lower-diameter": 1.1,
+                        "upper-diameter": 1.4
+                    },
+                    {
+                        "height": 0.71,
+                        "lower-diameter": 2.5,
+                        "upper-diameter": 2.5
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": ""
+            },
+            "last_modified": 1651694927762,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 51,
+                "length-offset": 51,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 51,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "reference_guid": "{8806009e-5233-4824-a886-d00fd439a349}",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "94ce71f8-4080-6a5b-3668-f8aeb0f78a81",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 1145.9155902616462,
+                        "n_ramp": 0,
+                        "name": "Aluminum Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 74.99999999999997,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "7cfa6c76-4abf-aa4f-1055-1f9b152fe2ac",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 611.154981472878,
+                        "n_ramp": 0,
+                        "name": "Steel Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 39.99999999999999,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "1e4b1956-459a-0242-a268-82b283e3b1e2",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 305.577490736439,
+                        "n_ramp": 0,
+                        "name": "Stainless Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 20,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "138f9c1b-439c-fd20-6dae-5e94075879eb",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 152.7887453682195,
+                        "n_ramp": 0,
+                        "name": "Titanium Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 9.999999999999996,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "d3c2df8c-4f50-c2bb-df7b-0f839cfe1c14",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 763.9437268410977,
+                        "n_ramp": 0,
+                        "name": "Plastic Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 49.99999999999999,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    }
+                ]
+            },
+            "type": "tap right hand",
+            "unit": "inches",
+            "vendor": ""
+        },
+        {
+            "BMC": "unspecified",
+            "GRADE": "generic",
+            "description": "M3 forming tap",
+            "geometry": {
+                "CSP": false,
+                "DC": 3,
+                "HAND": true,
+                "LB": 24,
+                "LCF": 15,
+                "NOF": 2,
+                "NT": 1,
+                "OAL": 48,
+                "RE": 0,
+                "SFDM": 3.5,
+                "SIG": 0,
+                "TP": 0.5,
+                "assemblyGaugeLength": 126.362,
+                "shoulder-length": 15,
+                "thread-profile-angle": 60,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "4f98a683-d14a-42da-9073-74b63f0672c5",
+            "holder": {
+                "description": "Maritool ER16-4.0MD",
+                "gaugeLength": 102.362,
+                "guid": "",
+                "product-id": "",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 68.58,
+                        "lower-diameter": 22.225,
+                        "upper-diameter": 22.225
+                    },
+                    {
+                        "height": 15.748,
+                        "lower-diameter": 44.50080000000001,
+                        "upper-diameter": 44.50080000000001
+                    },
+                    {
+                        "height": 18.034,
+                        "lower-diameter": 63.50000000000001,
+                        "upper-diameter": 63.50000000000001
+                    }
+                ],
+                "type": "holder",
+                "unit": "millimeters",
+                "vendor": ""
+            },
+            "last_modified": 1651694927759,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 58,
+                "length-offset": 58,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 58,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "reference_guid": "{002f4b90-39db-4720-ab9a-d35f3e958203}",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "6d188b00-409d-21fe-3da0-dba87d8e2322",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 7957.7471545947665,
+                        "n_ramp": 0,
+                        "name": "Aluminum Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 75,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "f55c7b4d-40f4-41ff-2045-068531891bf3",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 4244.131815783876,
+                        "n_ramp": 0,
+                        "name": "Steel Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 40,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "8393727b-4d70-624f-9f9d-1089e6d22d29",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 2122.0659078919375,
+                        "n_ramp": 0,
+                        "name": "Stainless Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 20,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "17f831dc-4022-0a26-fa89-6995243759ef",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 1061.032953945969,
+                        "n_ramp": 0,
+                        "name": "Titanium Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 10,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "56262b69-4a3e-f872-5c93-81b71757c4c6",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 5305.164769729845,
+                        "n_ramp": 0,
+                        "name": "Plastic Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 50,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    }
+                ]
+            },
+            "type": "tap right hand",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "unspecified",
+            "GRADE": "generic",
+            "description": "M5 forming tap",
+            "geometry": {
+                "CSP": false,
+                "DC": 5,
+                "HAND": true,
+                "LB": 31,
+                "LCF": 13,
+                "NOF": 2,
+                "NT": 1,
+                "OAL": 58,
+                "RE": 0,
+                "SFDM": 4.2,
+                "SIG": 0,
+                "TP": 0.8,
+                "assemblyGaugeLength": 133.362,
+                "shoulder-length": 13,
+                "thread-profile-angle": 60,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "56b413f7-8896-4226-81a0-cca3c9c06530",
+            "holder": {
+                "description": "Maritool ER16-4.0MD",
+                "gaugeLength": 102.362,
+                "guid": "",
+                "product-id": "",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 68.58,
+                        "lower-diameter": 22.225,
+                        "upper-diameter": 22.225
+                    },
+                    {
+                        "height": 15.748,
+                        "lower-diameter": 44.50080000000001,
+                        "upper-diameter": 44.50080000000001
+                    },
+                    {
+                        "height": 18.034,
+                        "lower-diameter": 63.50000000000001,
+                        "upper-diameter": 63.50000000000001
+                    }
+                ],
+                "type": "holder",
+                "unit": "millimeters",
+                "vendor": ""
+            },
+            "last_modified": 1651694927766,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 61,
+                "length-offset": 61,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 61,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "reference_guid": "{c38b5d82-3b30-4c4a-992e-d4412d024340}",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "b97c40a0-4aad-0cf3-1423-bb89a94a8cae",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 4774.64829275686,
+                        "n_ramp": 0,
+                        "name": "Aluminum Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 75,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "5c00f65a-4a64-a7cf-ed89-72a3123d5c6a",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 2546.4790894703256,
+                        "n_ramp": 0,
+                        "name": "Steel Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 40,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "63e0a310-42f3-5098-43cf-7589c024fad3",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 1273.239544735163,
+                        "n_ramp": 0,
+                        "name": "Stainless Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 20,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "b409d840-4a1c-054c-d709-8d9edaff8b36",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 636.6197723675814,
+                        "n_ramp": 0,
+                        "name": "Titanium Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 10,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "17ca411b-414e-d89b-ca6f-8193a918f1ba",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 3183.0988618379065,
+                        "n_ramp": 0,
+                        "name": "Plastic Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 50,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    }
+                ]
+            },
+            "type": "tap right hand",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "unspecified",
+            "GRADE": "generic",
+            "description": "M2.5 forming tap",
+            "geometry": {
+                "CSP": false,
+                "DC": 2.5,
+                "HAND": true,
+                "LB": 22,
+                "LCF": 13,
+                "NOF": 2,
+                "NT": 1,
+                "OAL": 66,
+                "RE": 0,
+                "SFDM": 3.55,
+                "SIG": 0,
+                "TP": 0.45,
+                "assemblyGaugeLength": 124.362,
+                "shoulder-length": 13,
+                "thread-profile-angle": 60,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "58ce842b-c613-4963-bb06-cc817814282b",
+            "holder": {
+                "description": "Maritool ER16-4.0MD",
+                "gaugeLength": 102.362,
+                "guid": "",
+                "product-id": "",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 68.58,
+                        "lower-diameter": 22.225,
+                        "upper-diameter": 22.225
+                    },
+                    {
+                        "height": 15.748,
+                        "lower-diameter": 44.50080000000001,
+                        "upper-diameter": 44.50080000000001
+                    },
+                    {
+                        "height": 18.034,
+                        "lower-diameter": 63.50000000000001,
+                        "upper-diameter": 63.50000000000001
+                    }
+                ],
+                "type": "holder",
+                "unit": "millimeters",
+                "vendor": ""
+            },
+            "last_modified": 1651694927759,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 57,
+                "length-offset": 57,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 57,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "reference_guid": "{d7711fd7-9268-4a17-a62c-e3e6f276017b}",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "47461739-4e5d-26c2-49db-569fe0bf6992",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 9549.29658551372,
+                        "n_ramp": 0,
+                        "name": "Aluminum Tap",
+                        "tool-coolant": "flood tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 75,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "f88835bb-45a4-0592-59d1-8cb1b1f80ae2",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 5092.958178940652,
+                        "n_ramp": 0,
+                        "name": "Steel Tap",
+                        "tool-coolant": "flood tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 40,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "c6f2a738-40b1-42fd-7cbe-33a6e64865d1",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 2546.4790894703256,
+                        "n_ramp": 0,
+                        "name": "Stainless Tap",
+                        "tool-coolant": "flood tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 20,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "c8df9d4f-4da0-4e9b-7915-bb941b0ce84d",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 1273.239544735163,
+                        "n_ramp": 0,
+                        "name": "Titanium Tap",
+                        "tool-coolant": "flood tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 10,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "d6f0fbbc-43c7-4732-c422-a987dcf267ac",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 6366.197723675813,
+                        "n_ramp": 0,
+                        "name": "Plastic Tap",
+                        "tool-coolant": "flood tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 50,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    }
+                ]
+            },
+            "type": "tap right hand",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "hss",
+            "GRADE": "generic",
+            "description": "#8-32 forming tap",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.164,
+                "HAND": true,
+                "LB": 1.18,
+                "LCF": 0.45,
+                "NOF": 2,
+                "NT": 1,
+                "OAL": 3.64,
+                "RE": 0,
+                "SFDM": 0.1476,
+                "SIG": 0,
+                "TP": 0.03125,
+                "assemblyGaugeLength": 5.21,
+                "shoulder-length": 0.45,
+                "thread-profile-angle": 60,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "5d9f6926-685b-4b11-bc6b-50cdffae1b99",
+            "holder": {
+                "description": "Maritool ER16-4.0MD",
+                "gaugeLength": 4.03,
+                "guid": "",
+                "product-id": "",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 2.7,
+                        "lower-diameter": 0.875,
+                        "upper-diameter": 0.875
+                    },
+                    {
+                        "height": 0.62,
+                        "lower-diameter": 1.752,
+                        "upper-diameter": 1.752
+                    },
+                    {
+                        "height": 0.71,
+                        "lower-diameter": 2.5,
+                        "upper-diameter": 2.5
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": ""
+            },
+            "last_modified": 1651694927766,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 48,
+                "length-offset": 48,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 48,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "reference_guid": "{dd2cd94b-55ec-4b16-9ea3-da510f7cffe1}",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "d0e83bb9-49e3-943d-0ee5-d6be67d1867f",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 1746.8225461305583,
+                        "n_ramp": 0,
+                        "name": "Aluminum Tap",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 74.99999999999999,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "db16e47a-4488-b98b-8763-71aab6092a74",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 931.6386912696314,
+                        "n_ramp": 0,
+                        "name": "Steel Tap",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 39.99999999999999,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "bb762cad-4d97-31d3-6b7b-fa8fa8941304",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 465.8193456348157,
+                        "n_ramp": 0,
+                        "name": "Stainless Tap",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 20,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "f0ba67ed-4c52-eea0-e0cf-15b3ffcd3e74",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 232.90967281740777,
+                        "n_ramp": 0,
+                        "name": "Titanium Tap",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 9.999999999999996,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "c39725d9-4944-cdca-7880-e8b55959b8d4",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 1164.548364087039,
+                        "n_ramp": 0,
+                        "name": "Plastic Tap",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 50,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    }
+                ]
+            },
+            "type": "tap right hand",
+            "unit": "inches",
+            "vendor": ""
+        },
+        {
+            "BMC": "hss",
+            "GRADE": "generic",
+            "description": "#4-40 forming tap",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.11,
+                "HAND": true,
+                "LB": 1.1,
+                "LCF": 0.62,
+                "NOF": 2,
+                "NT": 1,
+                "OAL": 3.64,
+                "RE": 0,
+                "SFDM": 0.138,
+                "SIG": 0,
+                "TP": 0.025,
+                "assemblyGaugeLength": 5.130000000000001,
+                "shoulder-length": 0.62,
+                "thread-profile-angle": 60,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "7f55d898-1f5f-4c57-a0db-30c801dceb9a",
+            "holder": {
+                "description": "Maritool ER16-4.0MD",
+                "gaugeLength": 4.03,
+                "guid": "",
+                "product-id": "",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 2.7,
+                        "lower-diameter": 0.875,
+                        "upper-diameter": 0.875
+                    },
+                    {
+                        "height": 0.62,
+                        "lower-diameter": 1.752,
+                        "upper-diameter": 1.752
+                    },
+                    {
+                        "height": 0.71,
+                        "lower-diameter": 2.5,
+                        "upper-diameter": 2.5
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": ""
+            },
+            "last_modified": 1651694927760,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 46,
+                "length-offset": 46,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 46,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "reference_guid": "{407556a0-c79f-47ac-b8ee-097c29c3225c}",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "e31753ac-4ff4-370c-7e52-8ab29151be0e",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 2604.3536142310145,
+                        "n_ramp": 0,
+                        "name": "Aluminum Tap",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 75,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "dc886c2e-4c81-3ea6-d634-fb9bd64da314",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 1388.9885942565409,
+                        "n_ramp": 0,
+                        "name": "Steel Tap",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 39.99999999999999,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "ba176002-4c1c-51dd-13d7-c6b78e51c679",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 694.4942971282707,
+                        "n_ramp": 0,
+                        "name": "Stainless Tap",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 20,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "9582ff7c-46a1-1a6e-cb52-099b45727fcf",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 347.24714856413533,
+                        "n_ramp": 0,
+                        "name": "Titanium Tap",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 9.999999999999998,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "adc7cfa7-4491-15b1-049a-5e992e99dd1f",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 1736.2357428206767,
+                        "n_ramp": 0,
+                        "name": "Plastic Tap",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 50,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    }
+                ]
+            },
+            "type": "tap right hand",
+            "unit": "inches",
+            "vendor": ""
+        },
+        {
+            "BMC": "unspecified",
+            "GRADE": "generic",
+            "description": "M8 forming tap",
+            "geometry": {
+                "CSP": false,
+                "DC": 8,
+                "HAND": true,
+                "LB": 38,
+                "LCF": 20,
+                "NOF": 2,
+                "NT": 1,
+                "OAL": 72,
+                "RE": 0,
+                "SFDM": 6.800000000000002,
+                "SIG": 0,
+                "TP": 1.25,
+                "assemblyGaugeLength": 128.932,
+                "shoulder-length": 20,
+                "thread-profile-angle": 60,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "975193dc-14bd-4312-b466-a7d392d23a04",
+            "holder": {
+                "description": "Maritool ER20-3.5MDT",
+                "gaugeLength": 90.932,
+                "guid": "",
+                "product-id": "",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 18.796000000000003,
+                        "lower-diameter": 27.94,
+                        "upper-diameter": 27.94
+                    },
+                    {
+                        "height": 6.096,
+                        "lower-diameter": 25.4,
+                        "upper-diameter": 25.4
+                    },
+                    {
+                        "height": 16.51,
+                        "lower-diameter": 27.94,
+                        "upper-diameter": 27.94
+                    },
+                    {
+                        "height": 31.496,
+                        "lower-diameter": 27.94,
+                        "upper-diameter": 35.56
+                    },
+                    {
+                        "height": 18.034,
+                        "lower-diameter": 63.50000000000001,
+                        "upper-diameter": 63.50000000000001
+                    }
+                ],
+                "type": "holder",
+                "unit": "millimeters",
+                "vendor": ""
+            },
+            "last_modified": 1651694927760,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 63,
+                "length-offset": 63,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 63,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "reference_guid": "{a7401d0a-b0b0-46fc-88ea-8569e14e79dc}",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "bb96c477-4358-fb32-02ad-d59136f434ce",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 2984.155182973038,
+                        "n_ramp": 0,
+                        "name": "Aluminum Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 75,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "b099ae95-4564-efa0-40be-c9b19d8ef54f",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 1591.5494309189537,
+                        "n_ramp": 0,
+                        "name": "Steel Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 40,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "c0a6d36b-4f95-3f79-e889-298a8841ff0e",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 795.7747154594766,
+                        "n_ramp": 0,
+                        "name": "Stainless Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 20,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "f1c96af8-45f6-67b9-2671-faa4c4f874d4",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 397.8873577297384,
+                        "n_ramp": 0,
+                        "name": "Titanium Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 10,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "5ae17af1-42cc-a85f-88ab-178a1b1f0208",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 1989.436788648692,
+                        "n_ramp": 0,
+                        "name": "Plastic Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 50,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    }
+                ]
+            },
+            "type": "tap right hand",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "unspecified",
+            "GRADE": "generic",
+            "description": "M6 forming tap",
+            "geometry": {
+                "CSP": false,
+                "DC": 6,
+                "HAND": true,
+                "LB": 34,
+                "LCF": 17,
+                "NOF": 2,
+                "NT": 1,
+                "OAL": 66,
+                "RE": 0,
+                "SFDM": 5,
+                "SIG": 0,
+                "TP": 1,
+                "assemblyGaugeLength": 124.932,
+                "shoulder-length": 17,
+                "thread-profile-angle": 60,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "98d8e61b-86a4-45ee-a2a4-0eb4e449e237",
+            "holder": {
+                "description": "Maritool ER20-3.5MDT",
+                "gaugeLength": 90.932,
+                "guid": "",
+                "product-id": "",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 18.796000000000003,
+                        "lower-diameter": 27.94,
+                        "upper-diameter": 27.94
+                    },
+                    {
+                        "height": 6.096,
+                        "lower-diameter": 25.4,
+                        "upper-diameter": 25.4
+                    },
+                    {
+                        "height": 16.51,
+                        "lower-diameter": 27.94,
+                        "upper-diameter": 27.94
+                    },
+                    {
+                        "height": 31.496,
+                        "lower-diameter": 27.94,
+                        "upper-diameter": 35.56
+                    },
+                    {
+                        "height": 18.034,
+                        "lower-diameter": 63.50000000000001,
+                        "upper-diameter": 63.50000000000001
+                    }
+                ],
+                "type": "holder",
+                "unit": "millimeters",
+                "vendor": ""
+            },
+            "last_modified": 1651694927763,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 62,
+                "length-offset": 62,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 62,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "reference_guid": "{73026d79-cb33-4bf6-a10d-32cf0c2fa87c}",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "4aeb0ffa-4429-cf1a-06ff-2c9e715b907b",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 3978.873577297384,
+                        "n_ramp": 0,
+                        "name": "Aluminum Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 75,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "afdf771f-4bb2-f361-e0a6-96b47b7680c2",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 2122.0659078919375,
+                        "n_ramp": 0,
+                        "name": "Steel Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 40,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "ffae7f5c-47ae-7a0b-b61c-649e99d6a7af",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 1061.032953945969,
+                        "n_ramp": 0,
+                        "name": "Stainless Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 20,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "0b408f79-409e-4de2-3549-1fb02004234e",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 530.5164769729845,
+                        "n_ramp": 0,
+                        "name": "Titanium Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 10,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "24e3cd8a-4e8e-fab0-4101-20ac444ca6e3",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 2652.5823848649225,
+                        "n_ramp": 0,
+                        "name": "Plastic Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 50,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    }
+                ]
+            },
+            "type": "tap right hand",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "unspecified",
+            "GRADE": "generic",
+            "description": "M12 forming tap",
+            "geometry": {
+                "CSP": false,
+                "DC": 12,
+                "HAND": true,
+                "LB": 50,
+                "LCF": 26,
+                "NOF": 2,
+                "NT": 1,
+                "OAL": 89,
+                "RE": 0,
+                "SFDM": 10.2,
+                "SIG": 0,
+                "TP": 1.75,
+                "assemblyGaugeLength": 140.932,
+                "shoulder-length": 26,
+                "thread-profile-angle": 60,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "baf8c2f9-3a53-4cd0-ab7c-f0ff16ed152f",
+            "holder": {
+                "description": "Maritool ER20-3.5MDT",
+                "gaugeLength": 90.932,
+                "guid": "",
+                "product-id": "",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 18.796000000000003,
+                        "lower-diameter": 27.94,
+                        "upper-diameter": 27.94
+                    },
+                    {
+                        "height": 6.096,
+                        "lower-diameter": 25.4,
+                        "upper-diameter": 25.4
+                    },
+                    {
+                        "height": 16.51,
+                        "lower-diameter": 27.94,
+                        "upper-diameter": 27.94
+                    },
+                    {
+                        "height": 31.496,
+                        "lower-diameter": 27.94,
+                        "upper-diameter": 35.56
+                    },
+                    {
+                        "height": 18.034,
+                        "lower-diameter": 63.50000000000001,
+                        "upper-diameter": 63.50000000000001
+                    }
+                ],
+                "type": "holder",
+                "unit": "millimeters",
+                "vendor": ""
+            },
+            "last_modified": 1651694927758,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 65,
+                "length-offset": 65,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 65,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "reference_guid": "{e2d0771a-a775-4b0b-a98d-1e3ac84b6d6e}",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "e5e952de-4c00-b7cf-ece1-93bcc22ea93c",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 1989.436788648692,
+                        "n_ramp": 0,
+                        "name": "Aluminum Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 75,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "52b205b8-4762-dd76-4062-51b1c7136e00",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 1061.032953945969,
+                        "n_ramp": 0,
+                        "name": "Steel Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 40,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "7e1f996a-49fd-4525-ef45-c6a0604916f6",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 530.5164769729845,
+                        "n_ramp": 0,
+                        "name": "Stainless Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 20,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "3677e065-458f-632d-1d99-29aa65eecb22",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 265.25823848649225,
+                        "n_ramp": 0,
+                        "name": "Titanium Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 10,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "5ec1d86a-40eb-f3c2-2f72-44ab0bef8fdd",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 1326.2911924324612,
+                        "n_ramp": 0,
+                        "name": "Plastic Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 50,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    }
+                ]
+            },
+            "type": "tap right hand",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "hss",
+            "GRADE": "generic",
+            "description": "#6-32 forming tap",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.14,
+                "HAND": true,
+                "LB": 1,
+                "LCF": 0.42,
+                "NOF": 2,
+                "NT": 1,
+                "OAL": 3.64,
+                "RE": 0,
+                "SFDM": 0.13,
+                "SIG": 0,
+                "TP": 0.03125,
+                "assemblyGaugeLength": 5.03,
+                "shoulder-length": 0.42,
+                "thread-profile-angle": 60,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "ca2c9759-6adf-4192-9492-7db6a292b3b5",
+            "holder": {
+                "description": "Maritool ER16-4.0MD",
+                "gaugeLength": 4.03,
+                "guid": "",
+                "product-id": "",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 2.7,
+                        "lower-diameter": 0.875,
+                        "upper-diameter": 0.875
+                    },
+                    {
+                        "height": 0.62,
+                        "lower-diameter": 1.752,
+                        "upper-diameter": 1.752
+                    },
+                    {
+                        "height": 0.71,
+                        "lower-diameter": 2.5,
+                        "upper-diameter": 2.5
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": ""
+            },
+            "last_modified": 1651694927764,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 47,
+                "length-offset": 47,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 47,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "reference_guid": "{0684e6bf-68c0-4305-bb00-5cc18eb16c58}",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "c27c545e-4550-be21-3323-c483106fed17",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 2046.2778397529405,
+                        "n_ramp": 0,
+                        "name": "Aluminum Tap",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 75,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "aa2ce28e-4f0c-c34c-4813-128e5ba33ec3",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 1091.3481812015682,
+                        "n_ramp": 0,
+                        "name": "Steel Tap",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 40,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "a48f1687-4a0a-39b6-b510-ccbab4363282",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 545.6740906007841,
+                        "n_ramp": 0,
+                        "name": "Stainless Tap",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 20,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "700bc079-47f7-d478-60d4-ac9e238b12cf",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 272.83704530039205,
+                        "n_ramp": 0,
+                        "name": "Titanium Tap",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 10,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "3ea17dc4-4060-cbb0-2b3d-4d9cc278199e",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 1364.18522650196,
+                        "n_ramp": 0,
+                        "name": "Plastic Tap",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 50,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    }
+                ]
+            },
+            "type": "tap right hand",
+            "unit": "inches",
+            "vendor": ""
+        },
+        {
+            "BMC": "unspecified",
+            "GRADE": "generic",
+            "description": "M2 forming tap",
+            "geometry": {
+                "CSP": false,
+                "DC": 2,
+                "HAND": true,
+                "LB": 20,
+                "LCF": 9,
+                "NOF": 2,
+                "NT": 1,
+                "OAL": 41,
+                "RE": 0,
+                "SFDM": 3.6,
+                "SIG": 0,
+                "TP": 0.4,
+                "assemblyGaugeLength": 122.362,
+                "shoulder-length": 9,
+                "thread-profile-angle": 60,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "ce988d92-180d-44af-9837-554d79db733e",
+            "holder": {
+                "description": "Maritool ER16-4.0MD",
+                "gaugeLength": 102.362,
+                "guid": "",
+                "product-id": "",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 68.58,
+                        "lower-diameter": 22.225,
+                        "upper-diameter": 22.225
+                    },
+                    {
+                        "height": 15.748,
+                        "lower-diameter": 44.50080000000001,
+                        "upper-diameter": 44.50080000000001
+                    },
+                    {
+                        "height": 18.034,
+                        "lower-diameter": 63.50000000000001,
+                        "upper-diameter": 63.50000000000001
+                    }
+                ],
+                "type": "holder",
+                "unit": "millimeters",
+                "vendor": ""
+            },
+            "last_modified": 1651694927760,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 56,
+                "length-offset": 56,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 56,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "reference_guid": "{80e2eb11-28c6-4d82-ad96-7068442ec957}",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "55b17496-412f-6d56-1d7b-73a95122f583",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 11936.620731892152,
+                        "n_ramp": 0,
+                        "name": "Aluminum Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 75,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "addf33e4-47b1-8250-d575-c6ab045f3788",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 6366.197723675813,
+                        "n_ramp": 0,
+                        "name": "Steel Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 40,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "da3420ce-4ba2-272f-f48b-15a49063c77e",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 3183.0988618379065,
+                        "n_ramp": 0,
+                        "name": "Stainless Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 20,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "37d3ed5f-423f-2a3a-ef0f-81b465540476",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 1591.5494309189537,
+                        "n_ramp": 0,
+                        "name": "Titanium Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 10,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "68c50ce2-4f50-6886-9561-c4874a528ab6",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 7957.7471545947665,
+                        "n_ramp": 0,
+                        "name": "Plastic Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 50,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    }
+                ]
+            },
+            "type": "tap right hand",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "hss",
+            "GRADE": "generic",
+            "description": "3/8-16 forming tap",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.375,
+                "HAND": true,
+                "LB": 1.7,
+                "LCF": 0.8,
+                "NOF": 2,
+                "NT": 1,
+                "OAL": 5.749999999999999,
+                "RE": 0,
+                "SFDM": 0.283,
+                "SIG": 0,
+                "TP": 0.0625,
+                "assemblyGaugeLength": 5.28,
+                "shoulder-length": 0.8,
+                "thread-profile-angle": 60,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "cf74fa84-7589-4374-92bc-bfc6bc8c46ee",
+            "holder": {
+                "description": "Maritool ER20-3.5MDT",
+                "gaugeLength": 3.58,
+                "guid": "",
+                "product-id": "",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 0.74,
+                        "lower-diameter": 1.1,
+                        "upper-diameter": 1.1
+                    },
+                    {
+                        "height": 0.24,
+                        "lower-diameter": 1,
+                        "upper-diameter": 1
+                    },
+                    {
+                        "height": 0.65,
+                        "lower-diameter": 1.1,
+                        "upper-diameter": 1.1
+                    },
+                    {
+                        "height": 1.24,
+                        "lower-diameter": 1.1,
+                        "upper-diameter": 1.4
+                    },
+                    {
+                        "height": 0.71,
+                        "lower-diameter": 2.5,
+                        "upper-diameter": 2.5
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": ""
+            },
+            "last_modified": 1651694927762,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 54,
+                "length-offset": 54,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 54,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "reference_guid": "{22f11ca6-bcb0-4564-893a-522a7190d8c7}",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "bcadd2fe-4e27-019f-7aa4-37a4b132fbd1",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 763.9437268410977,
+                        "n_ramp": 0,
+                        "name": "Aluminum Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 74.99999999999999,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "db6db341-4b85-9410-4dbb-d9b7c15061e5",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 407.43665431525216,
+                        "n_ramp": 0,
+                        "name": "Steel Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 39.99999999999999,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "4431d06d-4827-7de8-cdb7-8bb2ccd4fc83",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 203.71832715762608,
+                        "n_ramp": 0,
+                        "name": "Stainless Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 20,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "1393be0e-47e0-e696-f55b-40b0d700c853",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 101.85916357881304,
+                        "n_ramp": 0,
+                        "name": "Titanium Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 9.999999999999998,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "ac40d7b9-43f1-0c5e-41fd-469956a5d271",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 509.2958178940652,
+                        "n_ramp": 0,
+                        "name": "Plastic Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 50,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    }
+                ]
+            },
+            "type": "tap right hand",
+            "unit": "inches",
+            "vendor": ""
+        },
+        {
+            "BMC": "hss",
+            "GRADE": "generic",
+            "description": "#10-32 forming tap",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.19,
+                "HAND": true,
+                "LB": 1.3,
+                "LCF": 0.6,
+                "NOF": 2,
+                "NT": 1,
+                "OAL": 3.64,
+                "RE": 0,
+                "SFDM": 0.135,
+                "SIG": 0,
+                "TP": 0.03125,
+                "assemblyGaugeLength": 5.33,
+                "shoulder-length": 0.6,
+                "thread-profile-angle": 60,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "d912f5f4-9432-41ee-b6e2-63f05b26652d",
+            "holder": {
+                "description": "Maritool ER16-4.0MD",
+                "gaugeLength": 4.03,
+                "guid": "",
+                "product-id": "",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 2.7,
+                        "lower-diameter": 0.875,
+                        "upper-diameter": 0.875
+                    },
+                    {
+                        "height": 0.62,
+                        "lower-diameter": 1.752,
+                        "upper-diameter": 1.752
+                    },
+                    {
+                        "height": 0.71,
+                        "lower-diameter": 2.5,
+                        "upper-diameter": 2.5
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": ""
+            },
+            "last_modified": 1651694927761,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 50,
+                "length-offset": 50,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 50,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "reference_guid": "{2ec1738b-6f15-4c9b-80c9-747e5f0fa68f}",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "02b379fd-4d7c-fa4a-663c-1c85d04d3042",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 1507.783671396903,
+                        "n_ramp": 0,
+                        "name": "Aluminum Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 74.99999999999999,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "d3d8750f-4336-3307-d9bc-72ad92f3a73e",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 804.1512914116819,
+                        "n_ramp": 0,
+                        "name": "Steel Tap",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 39.99999999999999,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "6ea04c20-4fb4-5d7e-f849-fc84caa96da5",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 402.0756457058408,
+                        "n_ramp": 0,
+                        "name": "Stainless Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 20,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "4153df27-431b-664e-8edc-8cb73510c215",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 201.0378228529204,
+                        "n_ramp": 0,
+                        "name": "Titanium Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 9.999999999999996,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "5bac9bf5-4ad4-bf3a-bfad-64a13484fd1b",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 1005.1891142646024,
+                        "n_ramp": 0,
+                        "name": "Plastic Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 49.99999999999999,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    }
+                ]
+            },
+            "type": "tap right hand",
+            "unit": "inches",
+            "vendor": ""
+        },
+        {
+            "BMC": "hss",
+            "GRADE": "generic",
+            "description": "1/2-13 forming tap",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.5,
+                "HAND": true,
+                "LB": 1.9,
+                "LCF": 1,
+                "NOF": 2,
+                "NT": 1,
+                "OAL": 6.999999999999999,
+                "RE": 0,
+                "SFDM": 0.45,
+                "SIG": 0,
+                "TP": 0.0769231,
+                "assemblyGaugeLength": 5.9,
+                "shoulder-length": 1,
+                "thread-profile-angle": 60,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "e25f8273-d394-403f-8471-78e09393f30f",
+            "holder": {
+                "description": "MariTool ER25-4.0MD",
+                "gaugeLength": 4,
+                "guid": "",
+                "product-id": "",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 0.76,
+                        "lower-diameter": 1.38,
+                        "upper-diameter": 1.38
+                    },
+                    {
+                        "height": 0.23,
+                        "lower-diameter": 1.1,
+                        "upper-diameter": 1.1
+                    },
+                    {
+                        "height": 2.3,
+                        "lower-diameter": 1.38,
+                        "upper-diameter": 1.38
+                    },
+                    {
+                        "height": 0.71,
+                        "lower-diameter": 2.5,
+                        "upper-diameter": 2.5
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": ""
+            },
+            "last_modified": 1651694927762,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 55,
+                "length-offset": 55,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 55,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "reference_guid": "{d5a4a0b7-01cf-4e32-8aa9-b6395813ea13}",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "e26b4eec-47e5-3424-1c68-61854d5cf1e7",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 572.9577951308231,
+                        "n_ramp": 0,
+                        "name": "Aluminum Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 74.99999999999997,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "07ff2158-4713-6d3c-bdbb-c7a0262054d1",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 305.577490736439,
+                        "n_ramp": 0,
+                        "name": "Steel Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 39.99999999999999,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "5c02a2a0-4db4-26d7-c948-cd80f4956994",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 152.7887453682195,
+                        "n_ramp": 0,
+                        "name": "Stainless Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 20,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "81c1a159-48b4-764b-8bfd-9dae1d0d3968",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 76.39437268410975,
+                        "n_ramp": 0,
+                        "name": "Titanium Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 9.999999999999996,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "3e1add6b-438e-133a-3fb1-44a1b26f6dfb",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 381.97186342054886,
+                        "n_ramp": 0,
+                        "name": "Plastic Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 49.99999999999999,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    }
+                ]
+            },
+            "type": "tap right hand",
+            "unit": "inches",
+            "vendor": ""
+        },
+        {
+            "BMC": "unspecified",
+            "GRADE": "generic",
+            "description": "M10 forming tap",
+            "geometry": {
+                "CSP": false,
+                "DC": 10,
+                "HAND": true,
+                "LB": 42,
+                "LCF": 20,
+                "NOF": 2,
+                "NT": 1,
+                "OAL": 80,
+                "RE": 0,
+                "SFDM": 8.5,
+                "SIG": 0,
+                "TP": 1.5,
+                "assemblyGaugeLength": 132.932,
+                "shoulder-length": 20,
+                "thread-profile-angle": 60,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "fd55a43f-33c3-4149-8d6d-50a400266b3f",
+            "holder": {
+                "description": "Maritool ER20-3.5MDT",
+                "gaugeLength": 90.932,
+                "guid": "",
+                "product-id": "",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 18.796000000000003,
+                        "lower-diameter": 27.94,
+                        "upper-diameter": 27.94
+                    },
+                    {
+                        "height": 6.096,
+                        "lower-diameter": 25.4,
+                        "upper-diameter": 25.4
+                    },
+                    {
+                        "height": 16.51,
+                        "lower-diameter": 27.94,
+                        "upper-diameter": 27.94
+                    },
+                    {
+                        "height": 31.496,
+                        "lower-diameter": 27.94,
+                        "upper-diameter": 35.56
+                    },
+                    {
+                        "height": 18.034,
+                        "lower-diameter": 63.50000000000001,
+                        "upper-diameter": 63.50000000000001
+                    }
+                ],
+                "type": "holder",
+                "unit": "millimeters",
+                "vendor": ""
+            },
+            "last_modified": 1651694927763,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 64,
+                "length-offset": 64,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 64,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "reference_guid": "{56a3e78b-2304-4019-9b5b-37ea454709c2}",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "d80073ab-4e83-66e0-96b8-8bb5a1a344ee",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 2387.3241463784298,
+                        "n_ramp": 0,
+                        "name": "Aluminum Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 75,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "d779504d-4913-2d36-bff0-d78681da1405",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 1273.239544735163,
+                        "n_ramp": 0,
+                        "name": "Steel Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 40,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "23a43fde-4490-0740-ac6d-dabeaa2c04b6",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 636.6197723675814,
+                        "n_ramp": 0,
+                        "name": "Stainless Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 20,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "e96efb00-4c3b-6f3e-d45e-18a3275697ec",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 318.3098861837907,
+                        "n_ramp": 0,
+                        "name": "Titanium Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 10,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    },
+                    {
+                        "description": "",
+                        "f_n": 0,
+                        "f_z": 0,
+                        "guid": "cf9f963f-4d88-1172-0ab3-1b8095039f32",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 1591.5494309189537,
+                        "n_ramp": 0,
+                        "name": "Plastic Tap",
+                        "tool-coolant": "tool",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 50,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 0,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 0,
+                        "v_f_transition": 0
+                    }
+                ]
+            },
+            "type": "tap right hand",
+            "unit": "millimeters",
+            "vendor": ""
+        }
+    ],
+    "version": 26
+}
