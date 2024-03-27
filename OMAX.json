@@ -1,56 +1,58 @@
 {
     "data": [
         {
-            "description": "",
+            "BMC": "hss",
+            "description": "testing",
             "expressions": {
-                "tool_kerfWidth": "0.030 in",
-                "tool_nozzleDiameter": ".03 in"
+                "tool_description": "'testing'",
+                "tool_kerfWidth": "0.03 in",
+                "tool_nozzleDiameter": ".02 in",
+                "tool_number": "100"
             },
             "geometry": {
-                "CW": 0.03,
-                "JET_HEAD_CLEARANCE": 0.039370078740158014,
-                "JET_NOZZLE_DIAMETER": 0.03
+                "CW": 0.029999999999999995,
+                "JET_HEAD_CLEARANCE": 0.03937008,
+                "JET_NOZZLE_DIAMETER": 0.02
             },
             "guid": "a4ece1d1-c85f-4f19-988d-a15e66e56c69",
             "holder": {
                 "description": "Waterjet Head",
-                "gaugeLength": 71.18,
+                "gaugeLength": 2.8023619999999996,
                 "guid": "90b0431f-4374-46b6-837b-7d084e6c5b42",
-                "last_modified": 1485790631087,
                 "product-id": "",
                 "product-link": "",
                 "segments": [
                     {
-                        "height": 3.45,
-                        "lower-diameter": 2.54,
-                        "upper-diameter": 6.600000000000001
+                        "height": 0.13582677165354332,
+                        "lower-diameter": 0.1,
+                        "upper-diameter": 0.25984251968503935
                     },
                     {
-                        "height": 23.5,
-                        "lower-diameter": 6.600000000000001,
-                        "upper-diameter": 6.600000000000001
+                        "height": 0.9251968503937008,
+                        "lower-diameter": 0.25984251968503935,
+                        "upper-diameter": 0.25984251968503935
                     },
                     {
-                        "height": 16.45,
-                        "lower-diameter": 16.85,
-                        "upper-diameter": 16.85
+                        "height": 0.6476377952755905,
+                        "lower-diameter": 0.6633858267716536,
+                        "upper-diameter": 0.6633858267716536
                     },
                     {
-                        "height": 27.78,
-                        "lower-diameter": 18.98,
-                        "upper-diameter": 18.98
+                        "height": 1.0937007874015747,
+                        "lower-diameter": 0.747244094488189,
+                        "upper-diameter": 0.747244094488189
                     }
                 ],
                 "type": "holder",
-                "unit": "millimeters",
+                "unit": "inches",
                 "vendor": ""
             },
             "post-process": {
                 "comment": "",
-                "diameter-offset": 1,
-                "length-offset": 1,
+                "diameter-offset": 100,
+                "length-offset": 100,
                 "manual-tool-change": false,
-                "number": 1
+                "number": 100
             },
             "product-id": "",
             "product-link": "",
