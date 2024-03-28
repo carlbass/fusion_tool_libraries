@@ -7,7 +7,7 @@
                 "holder_productId": "'no idea'",
                 "tool_kerfWidth": "0.030 in",
                 "tool_nozzleDiameter": ".03 in",
-                "tool_number": "5551"
+                "tool_number": "1"
             },
             "geometry": {
                 "CW": 0.029999999999999995,
@@ -49,10 +49,10 @@
             },
             "post-process": {
                 "comment": "",
-                "diameter-offset": 5551,
-                "length-offset": 5551,
+                "diameter-offset": 1,
+                "length-offset": 1,
                 "manual-tool-change": false,
-                "number": 5551
+                "number": 1
             },
             "product-id": "",
             "product-link": "",
