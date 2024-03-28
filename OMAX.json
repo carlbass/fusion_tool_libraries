@@ -2,24 +2,24 @@
     "data": [
         {
             "BMC": "hss",
-            "description": "testing",
+            "description": "",
             "expressions": {
-                "tool_description": "'testing'",
-                "tool_kerfWidth": "0.03 in",
-                "tool_nozzleDiameter": ".02 in",
-                "tool_number": "1"
+                "holder_productId": "'no idea'",
+                "tool_kerfWidth": "0.030 in",
+                "tool_nozzleDiameter": ".03 in",
+                "tool_number": "5551"
             },
             "geometry": {
                 "CW": 0.029999999999999995,
                 "JET_HEAD_CLEARANCE": 0.03937008,
-                "JET_NOZZLE_DIAMETER": 0.02
+                "JET_NOZZLE_DIAMETER": 0.029999999999999995
             },
             "guid": "a4ece1d1-c85f-4f19-988d-a15e66e56c69",
             "holder": {
                 "description": "Waterjet Head",
                 "gaugeLength": 2.8023619999999996,
                 "guid": "90b0431f-4374-46b6-837b-7d084e6c5b42",
-                "product-id": "",
+                "product-id": "no idea",
                 "product-link": "",
                 "segments": [
                     {
@@ -49,10 +49,10 @@
             },
             "post-process": {
                 "comment": "",
-                "diameter-offset": 1,
-                "length-offset": 1,
+                "diameter-offset": 5551,
+                "length-offset": 5551,
                 "manual-tool-change": false,
-                "number": 1
+                "number": 5551
             },
             "product-id": "",
             "product-link": "",
