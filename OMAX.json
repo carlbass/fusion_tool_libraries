@@ -7,7 +7,7 @@
                 "tool_description": "'testing'",
                 "tool_kerfWidth": "0.03 in",
                 "tool_nozzleDiameter": ".02 in",
-                "tool_number": "222"
+                "tool_number": "1"
             },
             "geometry": {
                 "CW": 0.029999999999999995,
@@ -49,10 +49,10 @@
             },
             "post-process": {
                 "comment": "",
-                "diameter-offset": 222,
-                "length-offset": 222,
+                "diameter-offset": 1,
+                "length-offset": 1,
                 "manual-tool-change": false,
-                "number": 222
+                "number": 1
             },
             "product-id": "",
             "product-link": "",
