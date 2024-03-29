@@ -7,7 +7,7 @@
                 "holder_productId": "'no idea'",
                 "tool_kerfWidth": "0.030 in",
                 "tool_nozzleDiameter": ".03 in",
-                "tool_number": "1"
+                "tool_number": "100"
             },
             "geometry": {
                 "CW": 0.029999999999999995,
@@ -23,22 +23,22 @@
                 "product-link": "",
                 "segments": [
                     {
-                        "height": 0.13582677165354332,
+                        "height": 0.135826771653543,
                         "lower-diameter": 0.1,
-                        "upper-diameter": 0.25984251968503935
+                        "upper-diameter": 0.259842519685039
                     },
                     {
-                        "height": 0.9251968503937008,
-                        "lower-diameter": 0.25984251968503935,
-                        "upper-diameter": 0.25984251968503935
+                        "height": 0.925196850393701,
+                        "lower-diameter": 0.259842519685039,
+                        "upper-diameter": 0.259842519685039
                     },
                     {
-                        "height": 0.6476377952755905,
-                        "lower-diameter": 0.6633858267716536,
-                        "upper-diameter": 0.6633858267716536
+                        "height": 0.647637795275591,
+                        "lower-diameter": 0.663385826771654,
+                        "upper-diameter": 0.663385826771654
                     },
                     {
-                        "height": 1.0937007874015747,
+                        "height": 1.09370078740157,
                         "lower-diameter": 0.747244094488189,
                         "upper-diameter": 0.747244094488189
                     }
@@ -49,10 +49,10 @@
             },
             "post-process": {
                 "comment": "",
-                "diameter-offset": 1,
-                "length-offset": 1,
+                "diameter-offset": 100,
+                "length-offset": 100,
                 "manual-tool-change": false,
-                "number": 1
+                "number": 100
             },
             "product-id": "",
             "product-link": "",
