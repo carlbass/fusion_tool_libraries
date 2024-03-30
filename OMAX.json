@@ -2,43 +2,43 @@
     "data": [
         {
             "BMC": "hss",
-            "description": "",
+            "description": "testing",
             "expressions": {
-                "holder_productId": "'no idea'",
-                "tool_kerfWidth": "0.030 in",
-                "tool_nozzleDiameter": ".03 in",
-                "tool_number": "100"
+                "tool_description": "'testing'",
+                "tool_kerfWidth": "0.03 in",
+                "tool_nozzleDiameter": ".02 in",
+                "tool_number": "555"
             },
             "geometry": {
                 "CW": 0.029999999999999995,
                 "JET_HEAD_CLEARANCE": 0.03937008,
-                "JET_NOZZLE_DIAMETER": 0.029999999999999995
+                "JET_NOZZLE_DIAMETER": 0.02
             },
             "guid": "a4ece1d1-c85f-4f19-988d-a15e66e56c69",
             "holder": {
                 "description": "Waterjet Head",
                 "gaugeLength": 2.8023619999999996,
                 "guid": "90b0431f-4374-46b6-837b-7d084e6c5b42",
-                "product-id": "no idea",
+                "product-id": "",
                 "product-link": "",
                 "segments": [
                     {
-                        "height": 0.135826771653543,
+                        "height": 0.13582677165354332,
                         "lower-diameter": 0.1,
-                        "upper-diameter": 0.259842519685039
+                        "upper-diameter": 0.25984251968503935
                     },
                     {
-                        "height": 0.925196850393701,
-                        "lower-diameter": 0.259842519685039,
-                        "upper-diameter": 0.259842519685039
+                        "height": 0.9251968503937008,
+                        "lower-diameter": 0.25984251968503935,
+                        "upper-diameter": 0.25984251968503935
                     },
                     {
-                        "height": 0.647637795275591,
-                        "lower-diameter": 0.663385826771654,
-                        "upper-diameter": 0.663385826771654
+                        "height": 0.6476377952755905,
+                        "lower-diameter": 0.6633858267716536,
+                        "upper-diameter": 0.6633858267716536
                     },
                     {
-                        "height": 1.09370078740157,
+                        "height": 1.0937007874015747,
                         "lower-diameter": 0.747244094488189,
                         "upper-diameter": 0.747244094488189
                     }
@@ -49,10 +49,10 @@
             },
             "post-process": {
                 "comment": "",
-                "diameter-offset": 100,
-                "length-offset": 100,
+                "diameter-offset": 555,
+                "length-offset": 555,
                 "manual-tool-change": false,
-                "number": 100
+                "number": 555
             },
             "product-id": "",
             "product-link": "",
