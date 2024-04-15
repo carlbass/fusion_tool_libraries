@@ -1,0 +1,512 @@
+{
+    "data": [
+        {
+            "BMC": "hss",
+            "description": "15/64\" drill",
+            "expressions": {
+                "tool_bodyLength": "2.75 in",
+                "tool_description": "'15/64\" drill'",
+                "tool_diameter": "(15/64) in",
+                "tool_fluteLength": "1.75 in",
+                "tool_number": "103",
+                "tool_overallLength": "4 in",
+                "tool_shoulderLength": "2.7 in"
+            },
+            "geometry": {
+                "CSP": false,
+                "DC": 0.234375,
+                "HAND": true,
+                "LB": 2.75,
+                "LCF": 1.75,
+                "NOF": 3,
+                "OAL": 4,
+                "SFDM": 0.234375,
+                "SIG": 118,
+                "assemblyGaugeLength": 2.75,
+                "shoulder-length": 2.7
+            },
+            "guid": "18802b38-1eae-47b8-b730-9a1712266500",
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 103,
+                "length-offset": 103,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 103,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "guid": "da64887c-4801-474a-8761-c888b6a1114b",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 1000,
+                        "name": "Default preset",
+                        "tool-coolant": "disabled",
+                        "use-feed-per-revolution": false,
+                        "v_c": 61.35923151542565,
+                        "v_f_plunge": 20,
+                        "v_f_retract": 40
+                    }
+                ]
+            },
+            "type": "drill",
+            "unit": "inches",
+            "vendor": ""
+        },
+        {
+            "BMC": "hss",
+            "description": "9/32\" bit",
+            "expressions": {
+                "tool_bodyLength": "3.05 in",
+                "tool_description": "'9/32\" bit'",
+                "tool_diameter": "(9/32) in",
+                "tool_fluteLength": "2.5 in",
+                "tool_number": "104",
+                "tool_shoulderLength": "2.5 in"
+            },
+            "geometry": {
+                "CSP": false,
+                "DC": 0.28125,
+                "HAND": true,
+                "LB": 3.05,
+                "LCF": 2.5,
+                "NOF": 3,
+                "OAL": 3.5,
+                "SFDM": 0.28125,
+                "SIG": 118,
+                "assemblyGaugeLength": 3.05,
+                "shoulder-length": 2.5
+            },
+            "guid": "35c838c1-ae75-4f1f-93d6-28395a921e99",
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 104,
+                "length-offset": 104,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 104,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "guid": "6e0dd6de-d7a0-4d37-abec-3f39c20f76b0",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 1000,
+                        "name": "Default preset",
+                        "tool-coolant": "disabled",
+                        "use-feed-per-revolution": false,
+                        "v_c": 73.63107781851078,
+                        "v_f_plunge": 30,
+                        "v_f_retract": 40
+                    }
+                ]
+            },
+            "type": "drill",
+            "unit": "inches",
+            "vendor": ""
+        },
+        {
+            "BMC": "carbide",
+            "GRADE": "Mill Generic",
+            "description": "3/8\" upcut",
+            "expressions": {
+                "tool_bodyLength": "1.95 in",
+                "tool_description": "'3/8\" upcut'",
+                "tool_fluteLength": "1.5 in",
+                "tool_number": "523",
+                "tool_productId": "''",
+                "tool_shoulderLength": "1.8 in"
+            },
+            "geometry": {
+                "CSP": false,
+                "DC": 0.375,
+                "HAND": true,
+                "LB": 1.95,
+                "LCF": 1.5,
+                "NOF": 2,
+                "OAL": 3,
+                "SFDM": 0.375,
+                "assemblyGaugeLength": 3.9578740157480303,
+                "shoulder-length": 1.8
+            },
+            "guid": "7e4829ff-c0c3-496e-8c09-01e75c4f9fe4",
+            "holder": {
+                "description": "Thermwood ER32 holder",
+                "gaugeLength": 2.007874015748031,
+                "guid": "49a95f33-c155-4a6b-9ef4-b57b8d468765",
+                "product-id": "",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 0.905511811023622,
+                        "lower-diameter": 1.968503937007874,
+                        "upper-diameter": 1.968503937007874
+                    },
+                    {
+                        "height": 0.236220472440945,
+                        "lower-diameter": 1.771653543307087,
+                        "upper-diameter": 1.771653543307087
+                    },
+                    {
+                        "height": 0.354330708661417,
+                        "lower-diameter": 2.047244094488189,
+                        "upper-diameter": 2.244094488188976
+                    },
+                    {
+                        "height": 0.078740157480315,
+                        "lower-diameter": 2.244094488188976,
+                        "upper-diameter": 1.889763779527559
+                    },
+                    {
+                        "height": 0.078740157480315,
+                        "lower-diameter": 1.889763779527559,
+                        "upper-diameter": 2.244094488188976
+                    },
+                    {
+                        "height": 0.354330708661417,
+                        "lower-diameter": 2.244094488188976,
+                        "upper-diameter": 2.244094488188976
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": ""
+            },
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 523,
+                "length-offset": 523,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 523,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": null,
+                        "f_n": 0.0007290777777777778,
+                        "f_z": 0.016,
+                        "guid": "21cd3df4-f844-4d9c-a687-85ca35f3ee67",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 18000,
+                        "n_ramp": 18000,
+                        "name": "Default Preset",
+                        "tool-coolant": "disabled",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 1767.1458676442585,
+                        "v_f": 576,
+                        "v_f_leadIn": 100,
+                        "v_f_leadOut": 100,
+                        "v_f_plunge": 13.1234,
+                        "v_f_ramp": 150,
+                        "v_f_transition": 576
+                    },
+                    {
+                        "description": null,
+                        "f_n": 0.0007290777777777778,
+                        "f_z": 0.016,
+                        "guid": "d12b9e15-91f5-48d1-be75-0a7bc00bf07b",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 18000,
+                        "n_ramp": 18000,
+                        "name": "hardwood",
+                        "tool-coolant": "disabled",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 1767.1458676442585,
+                        "v_f": 576,
+                        "v_f_leadIn": 100,
+                        "v_f_leadOut": 100,
+                        "v_f_plunge": 13.1234,
+                        "v_f_ramp": 150,
+                        "v_f_transition": 576
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "inches",
+            "vendor": "Vortex"
+        },
+        {
+            "BMC": "carbide",
+            "GRADE": "Mill Generic",
+            "description": "1/2'\" upcut",
+            "expressions": {
+                "tool_bodyLength": "2.5 in",
+                "tool_description": "'1/2'\" upcut'",
+                "tool_diameter": ".5 in",
+                "tool_fluteLength": "1.5 in",
+                "tool_number": "524",
+                "tool_productId": "''",
+                "tool_shoulderLength": "2 in"
+            },
+            "geometry": {
+                "CSP": false,
+                "DC": 0.5,
+                "HAND": true,
+                "LB": 2.5,
+                "LCF": 1.5,
+                "NOF": 2,
+                "OAL": 3,
+                "SFDM": 0.5,
+                "assemblyGaugeLength": 4.5078740157480315,
+                "shoulder-length": 2
+            },
+            "guid": "64be4b99-a707-46cd-a3b7-9b5fdf3bd299",
+            "holder": {
+                "description": "Thermwood ER32 holder",
+                "gaugeLength": 2.007874015748031,
+                "guid": "49a95f33-c155-4a6b-9ef4-b57b8d468765",
+                "product-id": "",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 0.905511811023622,
+                        "lower-diameter": 1.968503937007874,
+                        "upper-diameter": 1.968503937007874
+                    },
+                    {
+                        "height": 0.236220472440945,
+                        "lower-diameter": 1.771653543307087,
+                        "upper-diameter": 1.771653543307087
+                    },
+                    {
+                        "height": 0.354330708661417,
+                        "lower-diameter": 2.047244094488189,
+                        "upper-diameter": 2.244094488188976
+                    },
+                    {
+                        "height": 0.078740157480315,
+                        "lower-diameter": 2.244094488188976,
+                        "upper-diameter": 1.889763779527559
+                    },
+                    {
+                        "height": 0.078740157480315,
+                        "lower-diameter": 1.889763779527559,
+                        "upper-diameter": 2.244094488188976
+                    },
+                    {
+                        "height": 0.354330708661417,
+                        "lower-diameter": 2.244094488188976,
+                        "upper-diameter": 2.244094488188976
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": ""
+            },
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 524,
+                "length-offset": 524,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 524,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": null,
+                        "f_n": 0.0007290777777777778,
+                        "f_z": 0.016,
+                        "guid": "21cd3df4-f844-4d9c-a687-85ca35f3ee67",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 18000,
+                        "n_ramp": 18000,
+                        "name": "Default Preset",
+                        "tool-coolant": "disabled",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 2356.194490192345,
+                        "v_f": 576,
+                        "v_f_leadIn": 100,
+                        "v_f_leadOut": 100,
+                        "v_f_plunge": 13.1234,
+                        "v_f_ramp": 150,
+                        "v_f_transition": 576
+                    },
+                    {
+                        "description": null,
+                        "f_n": 0.0007290777777777778,
+                        "f_z": 0.016,
+                        "guid": "d12b9e15-91f5-48d1-be75-0a7bc00bf07b",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 18000,
+                        "n_ramp": 18000,
+                        "name": "hardwood",
+                        "tool-coolant": "disabled",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 2356.194490192345,
+                        "v_f": 576,
+                        "v_f_leadIn": 100,
+                        "v_f_leadOut": 100,
+                        "v_f_plunge": 13.1234,
+                        "v_f_ramp": 150,
+                        "v_f_transition": 576
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "inches",
+            "vendor": "Vortex"
+        },
+        {
+            "BMC": "carbide",
+            "GRADE": "Mill Generic",
+            "description": "upcut",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.625,
+                "HAND": true,
+                "LB": 3,
+                "LCF": 2.125,
+                "NOF": 3,
+                "NT": 1,
+                "OAL": 4,
+                "RE": 0,
+                "SFDM": 0.625,
+                "TA": 0,
+                "TP": 0,
+                "assemblyGaugeLength": 4.1417324,
+                "shoulder-length": 2.5,
+                "thread-profile-angle": 60,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "fc288ec8-97e3-4405-a4f8-875772060e05",
+            "holder": {
+                "description": "Default Holder",
+                "gaugeLength": 1.1417324,
+                "guid": "{6d03839f-f0d4-450b-973b-a6fa2a15eaff}",
+                "product-id": "",
+                "segments": [
+                    {
+                        "height": 0.1968504,
+                        "lower-diameter": 0.984252,
+                        "upper-diameter": 1.1811
+                    },
+                    {
+                        "height": 0.3149606,
+                        "lower-diameter": 1.1811,
+                        "upper-diameter": 1.1811
+                    },
+                    {
+                        "height": 0.0787402,
+                        "lower-diameter": 1.9685,
+                        "upper-diameter": 1.9685
+                    },
+                    {
+                        "height": 0.0787402,
+                        "lower-diameter": 1.9685,
+                        "upper-diameter": 1.81102
+                    },
+                    {
+                        "height": 0.1181102,
+                        "lower-diameter": 1.81102,
+                        "upper-diameter": 1.81102
+                    },
+                    {
+                        "height": 0.0787402,
+                        "lower-diameter": 1.81102,
+                        "upper-diameter": 1.9685
+                    },
+                    {
+                        "height": 0.0787402,
+                        "lower-diameter": 1.9685,
+                        "upper-diameter": 1.9685
+                    },
+                    {
+                        "height": 0.1968504,
+                        "lower-diameter": 1.65354,
+                        "upper-diameter": 1.5748
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": ""
+            },
+            "last_modified": 1697393302789,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 525,
+                "length-offset": 525,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 525,
+                "turret": 0
+            },
+            "product-id": "VX1270",
+            "reference_guid": "<NEW TOOL GUID>",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": null,
+                        "f_n": 0.0008202125,
+                        "f_z": 0.003125,
+                        "guid": "2932eabe-5e9d-4637-9752-6b033c35a301",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 16000,
+                        "n_ramp": 16000,
+                        "name": "Default Preset",
+                        "tool-coolant": "disabled",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 2617.99387799149,
+                        "v_f": 150,
+                        "v_f_leadIn": 75,
+                        "v_f_leadOut": 75,
+                        "v_f_plunge": 13.1234,
+                        "v_f_ramp": 120,
+                        "v_f_retract": 13.1234,
+                        "v_f_transition": 150
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "inches",
+            "vendor": "Vortex"
+        }
+    ],
+    "version": 26
+}
